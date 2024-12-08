@@ -1,0 +1,32 @@
+{
+  "dataconnect": {
+    "source": "dataconnect"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "chit-chat-615f3",
+          "appId": "1:188178396244:android:21b2f8a646b9fff7fc69c1",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "chit-chat-615f3",
+          "configurations": {
+            "android": "1:188178396244:android:21b2f8a646b9fff7fc69c1",
+            "ios": "1:188178396244:ios:a7e8fe2672b9f050fc69c1",
+            "macos": "1:188178396244:ios:a7e8fe2672b9f050fc69c1",
+            "web": "1:188178396244:web:240b9a34fb6f5ed4fc69c1",
+            "windows": "1:188178396244:web:e946b0d3e0e7d856fc69c1"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
