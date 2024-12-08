@@ -4,6 +4,7 @@ class Colorconstants {
   static Color primarycolor = const Color(0xff37474F);
   static Color whitecolor = Colors.white;
   static Color greycolor = Colors.grey;
+  static Color greyshade = Colors.grey.shade200;
   static Color blackcolor = Colors.black;
   static Color redcolor = Colors.red;
 }
